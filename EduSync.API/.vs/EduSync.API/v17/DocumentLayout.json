@@ -1,0 +1,566 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Cursor Ai\\EDU-SYNC PROJECT\\EduSync.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1D47F35B-8151-40B7-BDEB-FAD2A306B48F}|EduSync.API.csproj|d:\\cursor ai\\edu-sync project\\edusync.api\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{1D47F35B-8151-40B7-BDEB-FAD2A306B48F}|EduSync.API.csproj|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D47F35B-8151-40B7-BDEB-FAD2A306B48F}|EduSync.API.csproj|d:\\cursor ai\\edu-sync project\\edusync.api\\services\\blobstorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D47F35B-8151-40B7-BDEB-FAD2A306B48F}|EduSync.API.csproj|solutionrelative:services\\blobstorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D47F35B-8151-40B7-BDEB-FAD2A306B48F}|EduSync.API.csproj|d:\\cursor ai\\edu-sync project\\edusync.api\\data\\edusyncdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D47F35B-8151-40B7-BDEB-FAD2A306B48F}|EduSync.API.csproj|solutionrelative:data\\edusyncdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D47F35B-8151-40B7-BDEB-FAD2A306B48F}|EduSync.API.csproj|d:\\cursor ai\\edu-sync project\\edusync.api\\controllers\\assessmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D47F35B-8151-40B7-BDEB-FAD2A306B48F}|EduSync.API.csproj|solutionrelative:controllers\\assessmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D47F35B-8151-40B7-BDEB-FAD2A306B48F}|EduSync.API.csproj|d:\\cursor ai\\edu-sync project\\edusync.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D47F35B-8151-40B7-BDEB-FAD2A306B48F}|EduSync.API.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D47F35B-8151-40B7-BDEB-FAD2A306B48F}|EduSync.API.csproj|d:\\cursor ai\\edu-sync project\\edusync.api\\controllers\\enrollmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D47F35B-8151-40B7-BDEB-FAD2A306B48F}|EduSync.API.csproj|solutionrelative:controllers\\enrollmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D47F35B-8151-40B7-BDEB-FAD2A306B48F}|EduSync.API.csproj|d:\\cursor ai\\edu-sync project\\edusync.api\\controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D47F35B-8151-40B7-BDEB-FAD2A306B48F}|EduSync.API.csproj|solutionrelative:controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D47F35B-8151-40B7-BDEB-FAD2A306B48F}|EduSync.API.csproj|d:\\cursor ai\\edu-sync project\\edusync.api\\models\\assessment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D47F35B-8151-40B7-BDEB-FAD2A306B48F}|EduSync.API.csproj|solutionrelative:models\\assessment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D47F35B-8151-40B7-BDEB-FAD2A306B48F}|EduSync.API.csproj|d:\\cursor ai\\edu-sync project\\edusync.api\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D47F35B-8151-40B7-BDEB-FAD2A306B48F}|EduSync.API.csproj|solutionrelative:models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D47F35B-8151-40B7-BDEB-FAD2A306B48F}|EduSync.API.csproj|d:\\cursor ai\\edu-sync project\\edusync.api\\models\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D47F35B-8151-40B7-BDEB-FAD2A306B48F}|EduSync.API.csproj|solutionrelative:models\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D47F35B-8151-40B7-BDEB-FAD2A306B48F}|EduSync.API.csproj|d:\\cursor ai\\edu-sync project\\edusync.api\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D47F35B-8151-40B7-BDEB-FAD2A306B48F}|EduSync.API.csproj|solutionrelative:models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D47F35B-8151-40B7-BDEB-FAD2A306B48F}|EduSync.API.csproj|d:\\cursor ai\\edu-sync project\\edusync.api\\dto\\courseforcreationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D47F35B-8151-40B7-BDEB-FAD2A306B48F}|EduSync.API.csproj|solutionrelative:dto\\courseforcreationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D47F35B-8151-40B7-BDEB-FAD2A306B48F}|EduSync.API.csproj|d:\\cursor ai\\edu-sync project\\edusync.api\\dto\\assessmentforcreationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D47F35B-8151-40B7-BDEB-FAD2A306B48F}|EduSync.API.csproj|solutionrelative:dto\\assessmentforcreationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D47F35B-8151-40B7-BDEB-FAD2A306B48F}|EduSync.API.csproj|d:\\cursor ai\\edu-sync project\\edusync.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1D47F35B-8151-40B7-BDEB-FAD2A306B48F}|EduSync.API.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D47F35B-8151-40B7-BDEB-FAD2A306B48F}|EduSync.API.csproj|d:\\cursor ai\\edu-sync project\\edusync.api\\controllers\\resultscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D47F35B-8151-40B7-BDEB-FAD2A306B48F}|EduSync.API.csproj|solutionrelative:controllers\\resultscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D47F35B-8151-40B7-BDEB-FAD2A306B48F}|EduSync.API.csproj|d:\\cursor ai\\edu-sync project\\edusync.api\\dto\\questiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D47F35B-8151-40B7-BDEB-FAD2A306B48F}|EduSync.API.csproj|solutionrelative:dto\\questiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D47F35B-8151-40B7-BDEB-FAD2A306B48F}|EduSync.API.csproj|d:\\cursor ai\\edu-sync project\\edusync.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D47F35B-8151-40B7-BDEB-FAD2A306B48F}|EduSync.API.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D47F35B-8151-40B7-BDEB-FAD2A306B48F}|EduSync.API.csproj|d:\\cursor ai\\edu-sync project\\edusync.api\\dto\\coursedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D47F35B-8151-40B7-BDEB-FAD2A306B48F}|EduSync.API.csproj|solutionrelative:dto\\coursedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D47F35B-8151-40B7-BDEB-FAD2A306B48F}|EduSync.API.csproj|d:\\cursor ai\\edu-sync project\\edusync.api\\dto\\resultdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D47F35B-8151-40B7-BDEB-FAD2A306B48F}|EduSync.API.csproj|solutionrelative:dto\\resultdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D47F35B-8151-40B7-BDEB-FAD2A306B48F}|EduSync.API.csproj|d:\\cursor ai\\edu-sync project\\edusync.api\\models\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D47F35B-8151-40B7-BDEB-FAD2A306B48F}|EduSync.API.csproj|solutionrelative:models\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D47F35B-8151-40B7-BDEB-FAD2A306B48F}|EduSync.API.csproj|d:\\cursor ai\\edu-sync project\\edusync.api\\dto\\assessmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D47F35B-8151-40B7-BDEB-FAD2A306B48F}|EduSync.API.csproj|solutionrelative:dto\\assessmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D47F35B-8151-40B7-BDEB-FAD2A306B48F}|EduSync.API.csproj|d:\\cursor ai\\edu-sync project\\edusync.api\\dto\\courseforupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D47F35B-8151-40B7-BDEB-FAD2A306B48F}|EduSync.API.csproj|solutionrelative:dto\\courseforupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D47F35B-8151-40B7-BDEB-FAD2A306B48F}|EduSync.API.csproj|d:\\cursor ai\\edu-sync project\\edusync.api\\edusync.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{1D47F35B-8151-40B7-BDEB-FAD2A306B48F}|EduSync.API.csproj|solutionrelative:edusync.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D47F35B-8151-40B7-BDEB-FAD2A306B48F}|EduSync.API.csproj|d:\\cursor ai\\edu-sync project\\edusync.api\\dto\\enrollmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D47F35B-8151-40B7-BDEB-FAD2A306B48F}|EduSync.API.csproj|solutionrelative:dto\\enrollmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D47F35B-8151-40B7-BDEB-FAD2A306B48F}|EduSync.API.csproj|d:\\cursor ai\\edu-sync project\\edusync.api\\dto\\enrollrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D47F35B-8151-40B7-BDEB-FAD2A306B48F}|EduSync.API.csproj|solutionrelative:dto\\enrollrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D47F35B-8151-40B7-BDEB-FAD2A306B48F}|EduSync.API.csproj|d:\\cursor ai\\edu-sync project\\edusync.api\\dto\\courseuploaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D47F35B-8151-40B7-BDEB-FAD2A306B48F}|EduSync.API.csproj|solutionrelative:dto\\courseuploaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D47F35B-8151-40B7-BDEB-FAD2A306B48F}|EduSync.API.csproj|d:\\cursor ai\\edu-sync project\\edusync.api\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D47F35B-8151-40B7-BDEB-FAD2A306B48F}|EduSync.API.csproj|solutionrelative:dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D47F35B-8151-40B7-BDEB-FAD2A306B48F}|EduSync.API.csproj|d:\\cursor ai\\edu-sync project\\edusync.api\\dto\\resultforcreationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D47F35B-8151-40B7-BDEB-FAD2A306B48F}|EduSync.API.csproj|solutionrelative:dto\\resultforcreationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D47F35B-8151-40B7-BDEB-FAD2A306B48F}|EduSync.API.csproj|d:\\cursor ai\\edu-sync project\\edusync.api\\dto\\assessmentforupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D47F35B-8151-40B7-BDEB-FAD2A306B48F}|EduSync.API.csproj|solutionrelative:dto\\assessmentforupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Cursor Ai\\EDU-SYNC PROJECT\\EduSync.API\\EduSync.API.csproj.user||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EduSync.API.csproj.user||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Capgemini Training\\EduSync.API\\Migrations\\20250520063237_FixAssessmentModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D47F35B-8151-40B7-BDEB-FAD2A306B48F}|EduSync.API.csproj|d:\\cursor ai\\edu-sync project\\edusync.api\\dto\\userforregistrationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D47F35B-8151-40B7-BDEB-FAD2A306B48F}|EduSync.API.csproj|solutionrelative:dto\\userforregistrationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D47F35B-8151-40B7-BDEB-FAD2A306B48F}|EduSync.API.csproj|d:\\cursor ai\\edu-sync project\\edusync.api\\dto\\userforlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D47F35B-8151-40B7-BDEB-FAD2A306B48F}|EduSync.API.csproj|solutionrelative:dto\\userforlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D47F35B-8151-40B7-BDEB-FAD2A306B48F}|EduSync.API.csproj|d:\\cursor ai\\edu-sync project\\edusync.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1D47F35B-8151-40B7-BDEB-FAD2A306B48F}|EduSync.API.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AssessmentDto.cs",
+              "DocumentMoniker": "D:\\Cursor Ai\\EDU-SYNC PROJECT\\EduSync.API\\DTO\\AssessmentDto.cs",
+              "RelativeDocumentMoniker": "DTO\\AssessmentDto.cs",
+              "ToolTip": "D:\\Cursor Ai\\EDU-SYNC PROJECT\\EduSync.API\\DTO\\AssessmentDto.cs",
+              "RelativeToolTip": "DTO\\AssessmentDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T09:07:18.973Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "D:\\Cursor Ai\\EDU-SYNC PROJECT\\EduSync.API\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "D:\\Cursor Ai\\EDU-SYNC PROJECT\\EduSync.API\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-27T06:18:58.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Course.cs",
+              "DocumentMoniker": "D:\\Cursor Ai\\EDU-SYNC PROJECT\\EduSync.API\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "Models\\Course.cs",
+              "ToolTip": "D:\\Cursor Ai\\EDU-SYNC PROJECT\\EduSync.API\\Models\\Course.cs",
+              "RelativeToolTip": "Models\\Course.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAIwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T11:56:29.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Enrollment.cs",
+              "DocumentMoniker": "D:\\Cursor Ai\\EDU-SYNC PROJECT\\EduSync.API\\Models\\Enrollment.cs",
+              "RelativeDocumentMoniker": "Models\\Enrollment.cs",
+              "ToolTip": "D:\\Cursor Ai\\EDU-SYNC PROJECT\\EduSync.API\\Models\\Enrollment.cs",
+              "RelativeToolTip": "Models\\Enrollment.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAcwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T17:54:23.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Users.cs",
+              "DocumentMoniker": "D:\\Cursor Ai\\EDU-SYNC PROJECT\\EduSync.API\\Models\\Users.cs",
+              "RelativeDocumentMoniker": "Models\\Users.cs",
+              "ToolTip": "D:\\Cursor Ai\\EDU-SYNC PROJECT\\EduSync.API\\Models\\Users.cs",
+              "RelativeToolTip": "Models\\Users.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAiwBcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T11:09:28.853Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EduSyncDbContext.cs",
+              "DocumentMoniker": "D:\\Cursor Ai\\EDU-SYNC PROJECT\\EduSync.API\\Data\\EduSyncDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\EduSyncDbContext.cs",
+              "ToolTip": "D:\\Cursor Ai\\EDU-SYNC PROJECT\\EduSync.API\\Data\\EduSyncDbContext.cs",
+              "RelativeToolTip": "Data\\EduSyncDbContext.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAADwv0EAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T10:42:02.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BlobStorageService.cs",
+              "DocumentMoniker": "D:\\Cursor Ai\\EDU-SYNC PROJECT\\EduSync.API\\Services\\BlobStorageService.cs",
+              "RelativeDocumentMoniker": "Services\\BlobStorageService.cs",
+              "ToolTip": "D:\\Cursor Ai\\EDU-SYNC PROJECT\\EduSync.API\\Services\\BlobStorageService.cs",
+              "RelativeToolTip": "Services\\BlobStorageService.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAADwvwsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T08:50:46.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AssessmentsController.cs",
+              "DocumentMoniker": "D:\\Cursor Ai\\EDU-SYNC PROJECT\\EduSync.API\\Controllers\\AssessmentsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AssessmentsController.cs",
+              "ToolTip": "D:\\Cursor Ai\\EDU-SYNC PROJECT\\EduSync.API\\Controllers\\AssessmentsController.cs",
+              "RelativeToolTip": "Controllers\\AssessmentsController.cs",
+              "ViewState": "AgIAAMcAAAAAAAAAAAAcwNMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T10:04:12.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\Cursor Ai\\EDU-SYNC PROJECT\\EduSync.API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
+              "ToolTip": "D:\\Cursor Ai\\EDU-SYNC PROJECT\\EduSync.API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\AuthController.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAowEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T10:05:36.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EnrollmentsController.cs",
+              "DocumentMoniker": "D:\\Cursor Ai\\EDU-SYNC PROJECT\\EduSync.API\\Controllers\\EnrollmentsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EnrollmentsController.cs",
+              "ToolTip": "D:\\Cursor Ai\\EDU-SYNC PROJECT\\EduSync.API\\Controllers\\EnrollmentsController.cs",
+              "RelativeToolTip": "Controllers\\EnrollmentsController.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAswGAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T17:56:29.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CoursesController.cs",
+              "DocumentMoniker": "D:\\Cursor Ai\\EDU-SYNC PROJECT\\EduSync.API\\Controllers\\CoursesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CoursesController.cs",
+              "ToolTip": "D:\\Cursor Ai\\EDU-SYNC PROJECT\\EduSync.API\\Controllers\\CoursesController.cs",
+              "RelativeToolTip": "Controllers\\CoursesController.cs",
+              "ViewState": "AgIAAIkAAAAAAAAAAAAqwJUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T09:30:55.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Assessment.cs",
+              "DocumentMoniker": "D:\\Cursor Ai\\EDU-SYNC PROJECT\\EduSync.API\\Models\\Assessment.cs",
+              "RelativeDocumentMoniker": "Models\\Assessment.cs",
+              "ToolTip": "D:\\Cursor Ai\\EDU-SYNC PROJECT\\EduSync.API\\Models\\Assessment.cs",
+              "RelativeToolTip": "Models\\Assessment.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T10:18:39.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CourseForCreationDto.cs",
+              "DocumentMoniker": "D:\\Cursor Ai\\EDU-SYNC PROJECT\\EduSync.API\\DTO\\CourseForCreationDto.cs",
+              "RelativeDocumentMoniker": "DTO\\CourseForCreationDto.cs",
+              "ToolTip": "D:\\Cursor Ai\\EDU-SYNC PROJECT\\EduSync.API\\DTO\\CourseForCreationDto.cs",
+              "RelativeToolTip": "DTO\\CourseForCreationDto.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAowBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T11:53:58.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AssessmentForCreationDto.cs",
+              "DocumentMoniker": "D:\\Cursor Ai\\EDU-SYNC PROJECT\\EduSync.API\\DTO\\AssessmentForCreationDto.cs",
+              "RelativeDocumentMoniker": "DTO\\AssessmentForCreationDto.cs",
+              "ToolTip": "D:\\Cursor Ai\\EDU-SYNC PROJECT\\EduSync.API\\DTO\\AssessmentForCreationDto.cs",
+              "RelativeToolTip": "DTO\\AssessmentForCreationDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAowBUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T09:07:45.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Cursor Ai\\EDU-SYNC PROJECT\\EduSync.API\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\Cursor Ai\\EDU-SYNC PROJECT\\EduSync.API\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-20T06:14:48.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ResultsController.cs",
+              "DocumentMoniker": "D:\\Cursor Ai\\EDU-SYNC PROJECT\\EduSync.API\\Controllers\\ResultsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ResultsController.cs",
+              "ToolTip": "D:\\Cursor Ai\\EDU-SYNC PROJECT\\EduSync.API\\Controllers\\ResultsController.cs",
+              "RelativeToolTip": "Controllers\\ResultsController.cs",
+              "ViewState": "AgIAAJMAAAAAAAAAAAAmwJ4AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T06:01:21.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "QuestionDto.cs",
+              "DocumentMoniker": "D:\\Cursor Ai\\EDU-SYNC PROJECT\\EduSync.API\\DTO\\QuestionDto.cs",
+              "RelativeDocumentMoniker": "DTO\\QuestionDto.cs",
+              "ToolTip": "D:\\Cursor Ai\\EDU-SYNC PROJECT\\EduSync.API\\DTO\\QuestionDto.cs",
+              "RelativeToolTip": "DTO\\QuestionDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAiwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T15:31:44.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Cursor Ai\\EDU-SYNC PROJECT\\EduSync.API\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Cursor Ai\\EDU-SYNC PROJECT\\EduSync.API\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAmwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T06:03:51.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CourseDto.cs",
+              "DocumentMoniker": "D:\\Cursor Ai\\EDU-SYNC PROJECT\\EduSync.API\\DTO\\CourseDto.cs",
+              "RelativeDocumentMoniker": "DTO\\CourseDto.cs",
+              "ToolTip": "D:\\Cursor Ai\\EDU-SYNC PROJECT\\EduSync.API\\DTO\\CourseDto.cs",
+              "RelativeToolTip": "DTO\\CourseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T09:08:43.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ResultDto.cs",
+              "DocumentMoniker": "D:\\Cursor Ai\\EDU-SYNC PROJECT\\EduSync.API\\DTO\\ResultDto.cs",
+              "RelativeDocumentMoniker": "DTO\\ResultDto.cs",
+              "ToolTip": "D:\\Cursor Ai\\EDU-SYNC PROJECT\\EduSync.API\\DTO\\ResultDto.cs",
+              "RelativeToolTip": "DTO\\ResultDto.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAwwA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T09:09:44.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Result.cs",
+              "DocumentMoniker": "D:\\Cursor Ai\\EDU-SYNC PROJECT\\EduSync.API\\Models\\Result.cs",
+              "RelativeDocumentMoniker": "Models\\Result.cs",
+              "ToolTip": "D:\\Cursor Ai\\EDU-SYNC PROJECT\\EduSync.API\\Models\\Result.cs",
+              "RelativeToolTip": "Models\\Result.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T05:58:41.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CourseForUpdateDto.cs",
+              "DocumentMoniker": "D:\\Cursor Ai\\EDU-SYNC PROJECT\\EduSync.API\\DTO\\CourseForUpdateDto.cs",
+              "RelativeDocumentMoniker": "DTO\\CourseForUpdateDto.cs",
+              "ToolTip": "D:\\Cursor Ai\\EDU-SYNC PROJECT\\EduSync.API\\DTO\\CourseForUpdateDto.cs",
+              "RelativeToolTip": "DTO\\CourseForUpdateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T11:54:12.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "EduSync.API.csproj",
+              "DocumentMoniker": "D:\\Cursor Ai\\EDU-SYNC PROJECT\\EduSync.API\\EduSync.API.csproj",
+              "RelativeDocumentMoniker": "EduSync.API.csproj",
+              "ToolTip": "D:\\Cursor Ai\\EDU-SYNC PROJECT\\EduSync.API\\EduSync.API.csproj",
+              "RelativeToolTip": "EduSync.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-23T16:24:52.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "EnrollmentDto.cs",
+              "DocumentMoniker": "D:\\Cursor Ai\\EDU-SYNC PROJECT\\EduSync.API\\DTO\\EnrollmentDto.cs",
+              "RelativeDocumentMoniker": "DTO\\EnrollmentDto.cs",
+              "ToolTip": "D:\\Cursor Ai\\EDU-SYNC PROJECT\\EduSync.API\\DTO\\EnrollmentDto.cs",
+              "RelativeToolTip": "DTO\\EnrollmentDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T17:55:00.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "EnrollRequestDto.cs",
+              "DocumentMoniker": "D:\\Cursor Ai\\EDU-SYNC PROJECT\\EduSync.API\\DTO\\EnrollRequestDto.cs",
+              "RelativeDocumentMoniker": "DTO\\EnrollRequestDto.cs",
+              "ToolTip": "D:\\Cursor Ai\\EDU-SYNC PROJECT\\EduSync.API\\DTO\\EnrollRequestDto.cs",
+              "RelativeToolTip": "DTO\\EnrollRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T17:55:58.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "CourseUploadDto.cs",
+              "DocumentMoniker": "D:\\Cursor Ai\\EDU-SYNC PROJECT\\EduSync.API\\DTO\\CourseUploadDto.cs",
+              "RelativeDocumentMoniker": "DTO\\CourseUploadDto.cs",
+              "ToolTip": "D:\\Cursor Ai\\EDU-SYNC PROJECT\\EduSync.API\\DTO\\CourseUploadDto.cs",
+              "RelativeToolTip": "DTO\\CourseUploadDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T06:34:03.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ResultForCreationDto.cs",
+              "DocumentMoniker": "D:\\Cursor Ai\\EDU-SYNC PROJECT\\EduSync.API\\DTO\\ResultForCreationDto.cs",
+              "RelativeDocumentMoniker": "DTO\\ResultForCreationDto.cs",
+              "ToolTip": "D:\\Cursor Ai\\EDU-SYNC PROJECT\\EduSync.API\\DTO\\ResultForCreationDto.cs",
+              "RelativeToolTip": "DTO\\ResultForCreationDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T11:54:44.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "D:\\Cursor Ai\\EDU-SYNC PROJECT\\EduSync.API\\DTO\\UserDto.cs",
+              "RelativeDocumentMoniker": "DTO\\UserDto.cs",
+              "ToolTip": "D:\\Cursor Ai\\EDU-SYNC PROJECT\\EduSync.API\\DTO\\UserDto.cs",
+              "RelativeToolTip": "DTO\\UserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T09:10:36.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "AssessmentForUpdateDto.cs",
+              "DocumentMoniker": "D:\\Cursor Ai\\EDU-SYNC PROJECT\\EduSync.API\\DTO\\AssessmentForUpdateDto.cs",
+              "RelativeDocumentMoniker": "DTO\\AssessmentForUpdateDto.cs",
+              "ToolTip": "D:\\Cursor Ai\\EDU-SYNC PROJECT\\EduSync.API\\DTO\\AssessmentForUpdateDto.cs",
+              "RelativeToolTip": "DTO\\AssessmentForUpdateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T09:08:24.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "EduSync.API.csproj.user",
+              "DocumentMoniker": "D:\\Cursor Ai\\EDU-SYNC PROJECT\\EduSync.API\\EduSync.API.csproj.user",
+              "RelativeDocumentMoniker": "EduSync.API.csproj.user",
+              "ToolTip": "D:\\Cursor Ai\\EDU-SYNC PROJECT\\EduSync.API\\EduSync.API.csproj.user",
+              "RelativeToolTip": "EduSync.API.csproj.user",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003464|",
+              "WhenOpened": "2025-05-23T16:54:08.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "UserForRegistrationDto.cs",
+              "DocumentMoniker": "D:\\Cursor Ai\\EDU-SYNC PROJECT\\EduSync.API\\DTO\\UserForRegistrationDto.cs",
+              "RelativeDocumentMoniker": "DTO\\UserForRegistrationDto.cs",
+              "ToolTip": "D:\\Cursor Ai\\EDU-SYNC PROJECT\\EduSync.API\\DTO\\UserForRegistrationDto.cs",
+              "RelativeToolTip": "DTO\\UserForRegistrationDto.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAowBcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T10:36:29.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "UserForLoginDto.cs",
+              "DocumentMoniker": "D:\\Cursor Ai\\EDU-SYNC PROJECT\\EduSync.API\\DTO\\UserForLoginDto.cs",
+              "RelativeDocumentMoniker": "DTO\\UserForLoginDto.cs",
+              "ToolTip": "D:\\Cursor Ai\\EDU-SYNC PROJECT\\EduSync.API\\DTO\\UserForLoginDto.cs",
+              "RelativeToolTip": "DTO\\UserForLoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T10:23:08.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Cursor Ai\\EDU-SYNC PROJECT\\EduSync.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "D:\\Cursor Ai\\EDU-SYNC PROJECT\\EduSync.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-23T06:57:04.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "20250520063237_FixAssessmentModel.cs",
+              "DocumentMoniker": "D:\\Capgemini Training\\EduSync.API\\Migrations\\20250520063237_FixAssessmentModel.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Capgemini Training\\EduSync.API\\Migrations\\20250520063237_FixAssessmentModel.cs",
+              "ToolTip": "D:\\Capgemini Training\\EduSync.API\\Migrations\\20250520063237_FixAssessmentModel.cs",
+              "RelativeToolTip": "..\\..\\..\\Capgemini Training\\EduSync.API\\Migrations\\20250520063237_FixAssessmentModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T06:32:37.567Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

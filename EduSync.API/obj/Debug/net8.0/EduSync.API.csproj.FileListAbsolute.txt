@@ -1,0 +1,521 @@
+D:\Capgemini Training\EduSync.API\obj\Debug\net8.0\EduSync.API.csproj.AssemblyReference.cache
+D:\Capgemini Training\EduSync.API\obj\Debug\net8.0\EduSync.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capgemini Training\EduSync.API\obj\Debug\net8.0\EduSync.API.AssemblyInfoInputs.cache
+D:\Capgemini Training\EduSync.API\obj\Debug\net8.0\EduSync.API.AssemblyInfo.cs
+D:\Capgemini Training\EduSync.API\obj\Debug\net8.0\EduSync.API.csproj.CoreCompileInputs.cache
+D:\Capgemini Training\EduSync.API\obj\Debug\net8.0\EduSync.API.MvcApplicationPartsAssemblyInfo.cs
+D:\Capgemini Training\EduSync.API\obj\Debug\net8.0\EduSync.API.MvcApplicationPartsAssemblyInfo.cache
+D:\Capgemini Training\EduSync.API\bin\Debug\net8.0\appsettings.Development.json
+D:\Capgemini Training\EduSync.API\bin\Debug\net8.0\appsettings.json
+D:\Capgemini Training\EduSync.API\bin\Debug\net8.0\EduSync.API.staticwebassets.endpoints.json
+D:\Capgemini Training\EduSync.API\bin\Debug\net8.0\EduSync.API.exe
+D:\Capgemini Training\EduSync.API\bin\Debug\net8.0\EduSync.API.deps.json
+D:\Capgemini Training\EduSync.API\bin\Debug\net8.0\EduSync.API.runtimeconfig.json
+D:\Capgemini Training\EduSync.API\bin\Debug\net8.0\EduSync.API.dll
+D:\Capgemini Training\EduSync.API\bin\Debug\net8.0\EduSync.API.pdb
+D:\Capgemini Training\EduSync.API\bin\Debug\net8.0\Azure.Core.dll
+D:\Capgemini Training\EduSync.API\bin\Debug\net8.0\Azure.Identity.dll
+D:\Capgemini Training\EduSync.API\bin\Debug\net8.0\Humanizer.dll
+D:\Capgemini Training\EduSync.API\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Capgemini Training\EduSync.API\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Capgemini Training\EduSync.API\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+D:\Capgemini Training\EduSync.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\Capgemini Training\EduSync.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Capgemini Training\EduSync.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Capgemini Training\EduSync.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Capgemini Training\EduSync.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\Capgemini Training\EduSync.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\Capgemini Training\EduSync.API\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Capgemini Training\EduSync.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Capgemini Training\EduSync.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Capgemini Training\EduSync.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Capgemini Training\EduSync.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Capgemini Training\EduSync.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Capgemini Training\EduSync.API\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Capgemini Training\EduSync.API\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Capgemini Training\EduSync.API\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Capgemini Training\EduSync.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Capgemini Training\EduSync.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Capgemini Training\EduSync.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Capgemini Training\EduSync.API\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\Capgemini Training\EduSync.API\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Capgemini Training\EduSync.API\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\Capgemini Training\EduSync.API\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\Capgemini Training\EduSync.API\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Capgemini Training\EduSync.API\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Capgemini Training\EduSync.API\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Capgemini Training\EduSync.API\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Capgemini Training\EduSync.API\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Capgemini Training\EduSync.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Capgemini Training\EduSync.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Capgemini Training\EduSync.API\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Capgemini Training\EduSync.API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Capgemini Training\EduSync.API\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\Capgemini Training\EduSync.API\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Capgemini Training\EduSync.API\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\Capgemini Training\EduSync.API\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Capgemini Training\EduSync.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Capgemini Training\EduSync.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Capgemini Training\EduSync.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Capgemini Training\EduSync.API\bin\Debug\net8.0\System.ClientModel.dll
+D:\Capgemini Training\EduSync.API\bin\Debug\net8.0\System.CodeDom.dll
+D:\Capgemini Training\EduSync.API\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\Capgemini Training\EduSync.API\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\Capgemini Training\EduSync.API\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\Capgemini Training\EduSync.API\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\Capgemini Training\EduSync.API\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\Capgemini Training\EduSync.API\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Capgemini Training\EduSync.API\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+D:\Capgemini Training\EduSync.API\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Capgemini Training\EduSync.API\bin\Debug\net8.0\System.Formats.Asn1.dll
+D:\Capgemini Training\EduSync.API\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Capgemini Training\EduSync.API\bin\Debug\net8.0\System.IO.Pipelines.dll
+D:\Capgemini Training\EduSync.API\bin\Debug\net8.0\System.Memory.Data.dll
+D:\Capgemini Training\EduSync.API\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\Capgemini Training\EduSync.API\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Capgemini Training\EduSync.API\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Capgemini Training\EduSync.API\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+D:\Capgemini Training\EduSync.API\bin\Debug\net8.0\System.Text.Json.dll
+D:\Capgemini Training\EduSync.API\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Capgemini Training\EduSync.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Capgemini Training\EduSync.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Capgemini Training\EduSync.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Capgemini Training\EduSync.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Capgemini Training\EduSync.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Capgemini Training\EduSync.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Capgemini Training\EduSync.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Capgemini Training\EduSync.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Capgemini Training\EduSync.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Capgemini Training\EduSync.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Capgemini Training\EduSync.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Capgemini Training\EduSync.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Capgemini Training\EduSync.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Capgemini Training\EduSync.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Capgemini Training\EduSync.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Capgemini Training\EduSync.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Capgemini Training\EduSync.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Capgemini Training\EduSync.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Capgemini Training\EduSync.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Capgemini Training\EduSync.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Capgemini Training\EduSync.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Capgemini Training\EduSync.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Capgemini Training\EduSync.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Capgemini Training\EduSync.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Capgemini Training\EduSync.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Capgemini Training\EduSync.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Capgemini Training\EduSync.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Capgemini Training\EduSync.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Capgemini Training\EduSync.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Capgemini Training\EduSync.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Capgemini Training\EduSync.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Capgemini Training\EduSync.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Capgemini Training\EduSync.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Capgemini Training\EduSync.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Capgemini Training\EduSync.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Capgemini Training\EduSync.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Capgemini Training\EduSync.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Capgemini Training\EduSync.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Capgemini Training\EduSync.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Capgemini Training\EduSync.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Capgemini Training\EduSync.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Capgemini Training\EduSync.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Capgemini Training\EduSync.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Capgemini Training\EduSync.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Capgemini Training\EduSync.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Capgemini Training\EduSync.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Capgemini Training\EduSync.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Capgemini Training\EduSync.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Capgemini Training\EduSync.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Capgemini Training\EduSync.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Capgemini Training\EduSync.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Capgemini Training\EduSync.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Capgemini Training\EduSync.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Capgemini Training\EduSync.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Capgemini Training\EduSync.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Capgemini Training\EduSync.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Capgemini Training\EduSync.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Capgemini Training\EduSync.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Capgemini Training\EduSync.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Capgemini Training\EduSync.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Capgemini Training\EduSync.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Capgemini Training\EduSync.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Capgemini Training\EduSync.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Capgemini Training\EduSync.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Capgemini Training\EduSync.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Capgemini Training\EduSync.API\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Capgemini Training\EduSync.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Capgemini Training\EduSync.API\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Capgemini Training\EduSync.API\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Capgemini Training\EduSync.API\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Capgemini Training\EduSync.API\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Capgemini Training\EduSync.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Capgemini Training\EduSync.API\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Capgemini Training\EduSync.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Capgemini Training\EduSync.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Capgemini Training\EduSync.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Capgemini Training\EduSync.API\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\Capgemini Training\EduSync.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Capgemini Training\EduSync.API\obj\Debug\net8.0\scopedcss\bundle\EduSync.API.styles.css
+D:\Capgemini Training\EduSync.API\obj\Debug\net8.0\staticwebassets.build.json
+D:\Capgemini Training\EduSync.API\obj\Debug\net8.0\staticwebassets.build.json.cache
+D:\Capgemini Training\EduSync.API\obj\Debug\net8.0\staticwebassets.development.json
+D:\Capgemini Training\EduSync.API\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\Capgemini Training\EduSync.API\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\Capgemini Training\EduSync.API\obj\Debug\net8.0\EduSync..C2ABC1D6.Up2Date
+D:\Capgemini Training\EduSync.API\obj\Debug\net8.0\EduSync.API.dll
+D:\Capgemini Training\EduSync.API\obj\Debug\net8.0\refint\EduSync.API.dll
+D:\Capgemini Training\EduSync.API\obj\Debug\net8.0\EduSync.API.pdb
+D:\Capgemini Training\EduSync.API\obj\Debug\net8.0\EduSync.API.genruntimeconfig.cache
+D:\Capgemini Training\EduSync.API\obj\Debug\net8.0\ref\EduSync.API.dll
+D:\Capgemini Training\EduSync.API\bin\Debug\net8.0\AutoMapper.dll
+D:\Capgemini Training\EduSync.API\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Capgemini Training\EduSync.API\bin\Debug\net8.0\BCrypt.Net-Next.dll
+D:\Capgemini Training\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\appsettings.Development.json
+D:\Capgemini Training\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\appsettings.json
+D:\Capgemini Training\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\EduSync.API.staticwebassets.endpoints.json
+D:\Capgemini Training\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\EduSync.API.exe
+D:\Capgemini Training\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\EduSync.API.deps.json
+D:\Capgemini Training\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\EduSync.API.runtimeconfig.json
+D:\Capgemini Training\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\EduSync.API.dll
+D:\Capgemini Training\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\EduSync.API.pdb
+D:\Capgemini Training\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\AutoMapper.dll
+D:\Capgemini Training\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Capgemini Training\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\Azure.Core.dll
+D:\Capgemini Training\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\Azure.Identity.dll
+D:\Capgemini Training\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\BCrypt.Net-Next.dll
+D:\Capgemini Training\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\Humanizer.dll
+D:\Capgemini Training\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Capgemini Training\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Capgemini Training\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+D:\Capgemini Training\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\Capgemini Training\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Capgemini Training\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Capgemini Training\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Capgemini Training\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\Capgemini Training\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\Capgemini Training\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Capgemini Training\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Capgemini Training\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Capgemini Training\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Capgemini Training\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Capgemini Training\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Capgemini Training\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Capgemini Training\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Capgemini Training\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Capgemini Training\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Capgemini Training\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Capgemini Training\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Capgemini Training\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\Capgemini Training\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Capgemini Training\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\Capgemini Training\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\Capgemini Training\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Capgemini Training\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Capgemini Training\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Capgemini Training\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Capgemini Training\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Capgemini Training\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Capgemini Training\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Capgemini Training\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Capgemini Training\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Capgemini Training\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\Capgemini Training\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Capgemini Training\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\Capgemini Training\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Capgemini Training\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Capgemini Training\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Capgemini Training\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Capgemini Training\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\System.ClientModel.dll
+D:\Capgemini Training\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\System.CodeDom.dll
+D:\Capgemini Training\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\Capgemini Training\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\Capgemini Training\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\Capgemini Training\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\Capgemini Training\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\Capgemini Training\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Capgemini Training\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+D:\Capgemini Training\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Capgemini Training\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\System.Formats.Asn1.dll
+D:\Capgemini Training\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Capgemini Training\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\System.IO.Pipelines.dll
+D:\Capgemini Training\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\System.Memory.Data.dll
+D:\Capgemini Training\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\Capgemini Training\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Capgemini Training\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Capgemini Training\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+D:\Capgemini Training\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\System.Text.Json.dll
+D:\Capgemini Training\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Capgemini Training\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Capgemini Training\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Capgemini Training\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Capgemini Training\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Capgemini Training\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Capgemini Training\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Capgemini Training\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Capgemini Training\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Capgemini Training\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Capgemini Training\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Capgemini Training\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Capgemini Training\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Capgemini Training\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Capgemini Training\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Capgemini Training\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Capgemini Training\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Capgemini Training\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Capgemini Training\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Capgemini Training\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Capgemini Training\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Capgemini Training\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Capgemini Training\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Capgemini Training\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Capgemini Training\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Capgemini Training\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Capgemini Training\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Capgemini Training\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Capgemini Training\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Capgemini Training\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Capgemini Training\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Capgemini Training\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Capgemini Training\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Capgemini Training\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Capgemini Training\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Capgemini Training\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Capgemini Training\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Capgemini Training\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Capgemini Training\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Capgemini Training\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Capgemini Training\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Capgemini Training\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Capgemini Training\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Capgemini Training\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Capgemini Training\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Capgemini Training\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Capgemini Training\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Capgemini Training\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Capgemini Training\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Capgemini Training\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Capgemini Training\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Capgemini Training\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Capgemini Training\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Capgemini Training\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Capgemini Training\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Capgemini Training\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Capgemini Training\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Capgemini Training\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Capgemini Training\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Capgemini Training\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Capgemini Training\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Capgemini Training\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Capgemini Training\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Capgemini Training\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Capgemini Training\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Capgemini Training\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Capgemini Training\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Capgemini Training\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Capgemini Training\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Capgemini Training\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Capgemini Training\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Capgemini Training\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Capgemini Training\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Capgemini Training\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Capgemini Training\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Capgemini Training\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Capgemini Training\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Capgemini Training\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\Capgemini Training\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Capgemini Training\EDU-SYNC PROJECT\EduSync.API\obj\Debug\net8.0\EduSync.API.csproj.AssemblyReference.cache
+D:\Capgemini Training\EDU-SYNC PROJECT\EduSync.API\obj\Debug\net8.0\EduSync.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capgemini Training\EDU-SYNC PROJECT\EduSync.API\obj\Debug\net8.0\EduSync.API.AssemblyInfoInputs.cache
+D:\Capgemini Training\EDU-SYNC PROJECT\EduSync.API\obj\Debug\net8.0\EduSync.API.AssemblyInfo.cs
+D:\Capgemini Training\EDU-SYNC PROJECT\EduSync.API\obj\Debug\net8.0\EduSync.API.csproj.CoreCompileInputs.cache
+D:\Capgemini Training\EDU-SYNC PROJECT\EduSync.API\obj\Debug\net8.0\EduSync.API.MvcApplicationPartsAssemblyInfo.cs
+D:\Capgemini Training\EDU-SYNC PROJECT\EduSync.API\obj\Debug\net8.0\EduSync.API.MvcApplicationPartsAssemblyInfo.cache
+D:\Capgemini Training\EDU-SYNC PROJECT\EduSync.API\obj\Debug\net8.0\scopedcss\bundle\EduSync.API.styles.css
+D:\Capgemini Training\EDU-SYNC PROJECT\EduSync.API\obj\Debug\net8.0\staticwebassets.build.json
+D:\Capgemini Training\EDU-SYNC PROJECT\EduSync.API\obj\Debug\net8.0\staticwebassets.build.json.cache
+D:\Capgemini Training\EDU-SYNC PROJECT\EduSync.API\obj\Debug\net8.0\staticwebassets.development.json
+D:\Capgemini Training\EDU-SYNC PROJECT\EduSync.API\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\Capgemini Training\EDU-SYNC PROJECT\EduSync.API\obj\Debug\net8.0\EduSync..C2ABC1D6.Up2Date
+D:\Capgemini Training\EDU-SYNC PROJECT\EduSync.API\obj\Debug\net8.0\EduSync.API.dll
+D:\Capgemini Training\EDU-SYNC PROJECT\EduSync.API\obj\Debug\net8.0\refint\EduSync.API.dll
+D:\Capgemini Training\EDU-SYNC PROJECT\EduSync.API\obj\Debug\net8.0\EduSync.API.pdb
+D:\Capgemini Training\EDU-SYNC PROJECT\EduSync.API\obj\Debug\net8.0\EduSync.API.genruntimeconfig.cache
+D:\Capgemini Training\EDU-SYNC PROJECT\EduSync.API\obj\Debug\net8.0\ref\EduSync.API.dll
+D:\Capgemini Training\EDU-SYNC PROJECT\EduSync.API\obj\Debug\net8.0\EduSync.API.sourcelink.json
+D:\Capgemini Training\EDU-SYNC PROJECT\EduSync.API\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\Cursor Ai\EDU-SYNC PROJECT\EduSync.API\obj\Debug\net8.0\EduSync.API.csproj.AssemblyReference.cache
+D:\Cursor Ai\EDU-SYNC PROJECT\EduSync.API\obj\Debug\net8.0\EduSync.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursor Ai\EDU-SYNC PROJECT\EduSync.API\obj\Debug\net8.0\EduSync.API.AssemblyInfoInputs.cache
+D:\Cursor Ai\EDU-SYNC PROJECT\EduSync.API\obj\Debug\net8.0\EduSync.API.AssemblyInfo.cs
+D:\Cursor Ai\EDU-SYNC PROJECT\EduSync.API\obj\Debug\net8.0\EduSync.API.csproj.CoreCompileInputs.cache
+D:\Cursor Ai\EDU-SYNC PROJECT\EduSync.API\obj\Debug\net8.0\EduSync.API.MvcApplicationPartsAssemblyInfo.cs
+D:\Cursor Ai\EDU-SYNC PROJECT\EduSync.API\obj\Debug\net8.0\EduSync.API.MvcApplicationPartsAssemblyInfo.cache
+D:\Cursor Ai\EDU-SYNC PROJECT\EduSync.API\obj\Debug\net8.0\EduSync.API.sourcelink.json
+D:\Cursor Ai\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\appsettings.Development.json
+D:\Cursor Ai\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\appsettings.json
+D:\Cursor Ai\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\EduSync.API.staticwebassets.endpoints.json
+D:\Cursor Ai\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\EduSync.API.exe
+D:\Cursor Ai\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\EduSync.API.deps.json
+D:\Cursor Ai\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\EduSync.API.runtimeconfig.json
+D:\Cursor Ai\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\EduSync.API.dll
+D:\Cursor Ai\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\EduSync.API.pdb
+D:\Cursor Ai\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\AutoMapper.dll
+D:\Cursor Ai\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Cursor Ai\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\Azure.Core.dll
+D:\Cursor Ai\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\Azure.Identity.dll
+D:\Cursor Ai\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\BCrypt.Net-Next.dll
+D:\Cursor Ai\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\Humanizer.dll
+D:\Cursor Ai\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Cursor Ai\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Cursor Ai\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+D:\Cursor Ai\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\Cursor Ai\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Cursor Ai\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Cursor Ai\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Cursor Ai\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\Cursor Ai\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\Cursor Ai\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Cursor Ai\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Cursor Ai\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Cursor Ai\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Cursor Ai\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Cursor Ai\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Cursor Ai\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Cursor Ai\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Cursor Ai\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Cursor Ai\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Cursor Ai\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Cursor Ai\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Cursor Ai\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\Cursor Ai\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Cursor Ai\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\Cursor Ai\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\Cursor Ai\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Cursor Ai\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Cursor Ai\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Cursor Ai\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Cursor Ai\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Cursor Ai\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Cursor Ai\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Cursor Ai\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Cursor Ai\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Cursor Ai\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\Cursor Ai\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Cursor Ai\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\Cursor Ai\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Cursor Ai\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Cursor Ai\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Cursor Ai\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Cursor Ai\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\System.ClientModel.dll
+D:\Cursor Ai\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\System.CodeDom.dll
+D:\Cursor Ai\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\Cursor Ai\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\Cursor Ai\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\Cursor Ai\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\Cursor Ai\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\Cursor Ai\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Cursor Ai\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+D:\Cursor Ai\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Cursor Ai\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\System.Formats.Asn1.dll
+D:\Cursor Ai\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Cursor Ai\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\System.IO.Pipelines.dll
+D:\Cursor Ai\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\System.Memory.Data.dll
+D:\Cursor Ai\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\Cursor Ai\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Cursor Ai\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Cursor Ai\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+D:\Cursor Ai\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\System.Text.Json.dll
+D:\Cursor Ai\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Cursor Ai\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Cursor Ai\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Cursor Ai\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Cursor Ai\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Cursor Ai\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Cursor Ai\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Cursor Ai\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Cursor Ai\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Cursor Ai\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Cursor Ai\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Cursor Ai\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Cursor Ai\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Cursor Ai\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Cursor Ai\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Cursor Ai\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Cursor Ai\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Cursor Ai\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Cursor Ai\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Cursor Ai\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Cursor Ai\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Cursor Ai\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Cursor Ai\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Cursor Ai\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Cursor Ai\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Cursor Ai\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Cursor Ai\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Cursor Ai\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Cursor Ai\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Cursor Ai\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Cursor Ai\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Cursor Ai\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Cursor Ai\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Cursor Ai\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Cursor Ai\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Cursor Ai\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Cursor Ai\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Cursor Ai\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Cursor Ai\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Cursor Ai\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Cursor Ai\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Cursor Ai\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Cursor Ai\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Cursor Ai\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Cursor Ai\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Cursor Ai\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Cursor Ai\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Cursor Ai\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Cursor Ai\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Cursor Ai\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Cursor Ai\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Cursor Ai\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Cursor Ai\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Cursor Ai\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Cursor Ai\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Cursor Ai\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Cursor Ai\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Cursor Ai\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Cursor Ai\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Cursor Ai\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Cursor Ai\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Cursor Ai\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Cursor Ai\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Cursor Ai\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Cursor Ai\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Cursor Ai\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Cursor Ai\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Cursor Ai\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Cursor Ai\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Cursor Ai\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Cursor Ai\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Cursor Ai\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Cursor Ai\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Cursor Ai\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Cursor Ai\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Cursor Ai\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Cursor Ai\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Cursor Ai\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\Cursor Ai\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Cursor Ai\EDU-SYNC PROJECT\EduSync.API\obj\Debug\net8.0\scopedcss\bundle\EduSync.API.styles.css
+D:\Cursor Ai\EDU-SYNC PROJECT\EduSync.API\obj\Debug\net8.0\staticwebassets.build.json
+D:\Cursor Ai\EDU-SYNC PROJECT\EduSync.API\obj\Debug\net8.0\staticwebassets.build.json.cache
+D:\Cursor Ai\EDU-SYNC PROJECT\EduSync.API\obj\Debug\net8.0\staticwebassets.development.json
+D:\Cursor Ai\EDU-SYNC PROJECT\EduSync.API\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\Cursor Ai\EDU-SYNC PROJECT\EduSync.API\obj\Debug\net8.0\EduSync..C2ABC1D6.Up2Date
+D:\Cursor Ai\EDU-SYNC PROJECT\EduSync.API\obj\Debug\net8.0\EduSync.API.dll
+D:\Cursor Ai\EDU-SYNC PROJECT\EduSync.API\obj\Debug\net8.0\refint\EduSync.API.dll
+D:\Cursor Ai\EDU-SYNC PROJECT\EduSync.API\obj\Debug\net8.0\EduSync.API.pdb
+D:\Cursor Ai\EDU-SYNC PROJECT\EduSync.API\obj\Debug\net8.0\EduSync.API.genruntimeconfig.cache
+D:\Cursor Ai\EDU-SYNC PROJECT\EduSync.API\obj\Debug\net8.0\ref\EduSync.API.dll
+D:\Cursor Ai\EDU-SYNC PROJECT\EduSync.API\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\Cursor Ai\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\Azure.Storage.Blobs.dll
+D:\Cursor Ai\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\Azure.Storage.Common.dll
+D:\Cursor Ai\EDU-SYNC PROJECT\EduSync.API\bin\Debug\net8.0\System.IO.Hashing.dll
